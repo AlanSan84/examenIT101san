@@ -1,8 +1,9 @@
-Simple MVC
+Examen Simple MVC
 
 Aplicación usando Modelo Vista Controlador.
 
 Aplicación básica para ejemplificar el patrón de diseño MVC.
 
-Cristian Bernal
-crisbera@gmail.com
+Alumno: Alan Puc
+
+Maestro: Cristian Bernal
